@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Takeo Kunishima’s Laboratory
 
-You can use the [editor on GitHub](https://github.com/kunishi/kunilab-org.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+岡山県立大学情報工学部情報通信工学科国島研究室（情報基盤学研究室）のWebサイトです。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2021年3月末をもって担当教員が岡山県立大学を退職するため、内容をいったんリセットします。お問い合わせは担当教員までお願いします。
 
-### Markdown
+### 教員
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kunishi/kunilab-org.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[國島丈生](https://kunishi.github.io)
